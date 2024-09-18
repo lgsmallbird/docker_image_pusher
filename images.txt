@@ -1,1 +1,1 @@
-mysql:8.0.33
+dockurr/windows:latest
