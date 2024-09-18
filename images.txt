@@ -1,5 +1,1 @@
-nginx
-nyanmisaka/jellyfin
-gitlab/gitlab-ce
-ubuntu:20.04
-ubuntu:latest
+ serialt/rocky
