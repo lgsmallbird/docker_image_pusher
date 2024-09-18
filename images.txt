@@ -1,1 +1,1 @@
- serialt/rocky
+ serialt/rocky:9
