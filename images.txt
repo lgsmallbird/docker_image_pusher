@@ -1,1 +1,1 @@
-openjdk:8-jdk-slim
+eclipse-temurin:8-alpine
